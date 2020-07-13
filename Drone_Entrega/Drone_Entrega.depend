@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1580996327 source:c:\users\aninh\documents\codigos\olimpiadabrasileiracomputacao\codigos c\nivel_junior_fase1\drone_entrega\main.c
+	<stdio.h>
+	<stdlib.h>
+
